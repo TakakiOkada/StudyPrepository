@@ -1,1 +1,1 @@
-# StudyPrepository
+# StudyRepository
